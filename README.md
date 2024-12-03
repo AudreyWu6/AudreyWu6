@@ -7,10 +7,10 @@
 - ⚡ Fun fact: I enjoy tackling complex algorithms and building creative solutions that push the boundaries of my skills!
 
 My experience spans a variety of tools and technologies, including:
- 🖥️ Programming Languages: JavaScript, TypeScript, Python, C#, C++, Rust
- 🌐 Web Development: React, Next.js, .NET, HTML, CSS, Bootstrap, Tailwind CSS
- 🗃️ Databases: SQL Server, PostgreSQL, MongoDB
- 🛠️ Development Tools: Git/GitHub, Docker
+- 🖥️ Programming Languages: JavaScript, TypeScript, Python, C#, C++, Rust
+- 🌐 Web Development: React, Next.js, .NET, HTML, CSS, Bootstrap, Tailwind CSS
+- 🗃️ Databases: SQL Server, PostgreSQL, MongoDB
+- 🛠️ Development Tools: Git/GitHub, Docker
 
 <!---
 AudreyWu6/AudreyWu6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
