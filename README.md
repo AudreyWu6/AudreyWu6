@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AudreyWu6, a final-semester IT student with a passion for lifelong learning, problem-solving, and continuous self-growth.
+- 👋 Hi, I’m Audrey Wu, a final-semester IT student with a passion for lifelong learning, problem-solving, and continuous self-growth.
 - 👀 I’m interested in competitive programming (like LeetCode), exploring new technologies, and working on exciting projects in my free time.
 - 🌱 I’m currently learning C#, backend development, and enhancing my skills to prepare for a full-time junior developer role.
 - 💞️ I’m looking to collaborate on software development projects and innovative tech solutions.
