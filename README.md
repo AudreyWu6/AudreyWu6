@@ -12,6 +12,10 @@ My experience spans a variety of tools and technologies, including:
 - 🗃️ Databases: SQL Server, PostgreSQL, MongoDB
 - 🛠️ Development Tools: Git/GitHub, Docker
 
+I am Looking for roles such as:
+- Full-stack Developer
+- Software Engineer
+
 <!---
 AudreyWu6/AudreyWu6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
